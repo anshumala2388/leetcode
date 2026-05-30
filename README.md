@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anshumala2388/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anshumala2388/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshumala2388/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/anshumala2388/leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anshumala2388/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anshumala2388/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshumala2388/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/anshumala2388/leetcode/tree/master/0443-string-compression) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anshumala2388/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
