@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshumala2388/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshumala2388/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshumala2388/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshumala2388/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshumala2388/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshumala2388/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anshumala2388/leetcode/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshumala2388/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshumala2388/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Enumeration
 |  |
@@ -101,8 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anshumala2388/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anshumala2388/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshumala2388/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshumala2388/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshumala2388/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/anshumala2388/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
