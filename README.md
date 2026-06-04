@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshumala2388/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumala2388/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anshumala2388/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumala2388/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshumala2388/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumala2388/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anshumala2388/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anshumala2388/leetcode/tree/master/0075-sort-colors) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshumala2388/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anshumala2388/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshumala2388/leetcode/tree/master/0088-merge-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshumala2388/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
