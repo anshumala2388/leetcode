@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anshumala2388/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/anshumala2388/leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anshumala2388/leetcode/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/anshumala2388/leetcode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshumala2388/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshumala2388/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Enumeration
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anshumala2388/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshumala2388/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshumala2388/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
