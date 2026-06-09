@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshumala2388/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anshumala2388/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumala2388/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/anshumala2388/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/anshumala2388/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anshumala2388/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anshumala2388/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/anshumala2388/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/anshumala2388/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anshumala2388/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshumala2388/leetcode/tree/master/0090-subsets-ii) |
