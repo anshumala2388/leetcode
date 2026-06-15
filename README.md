@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anshumala2388/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshumala2388/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/anshumala2388/leetcode/tree/master/0443-string-compression) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshumala2388/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshumala2388/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/anshumala2388/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anshumala2388/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshumala2388/leetcode/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshumala2388/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
