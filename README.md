@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumala2388/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/anshumala2388/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/anshumala2388/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/anshumala2388/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anshumala2388/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anshumala2388/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/anshumala2388/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anshumala2388/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/anshumala2388/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anshumala2388/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anshumala2388/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshumala2388/leetcode/tree/master/0090-subsets-ii) |
