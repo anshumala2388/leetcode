@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshumala2388/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/anshumala2388/leetcode/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/anshumala2388/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/anshumala2388/leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anshumala2388/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/anshumala2388/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/anshumala2388/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/anshumala2388/leetcode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/anshumala2388/leetcode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshumala2388/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/anshumala2388/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/anshumala2388/leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
