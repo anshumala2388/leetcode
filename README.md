@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumala2388/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshumala2388/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anshumala2388/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anshumala2388/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshumala2388/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anshumala2388/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anshumala2388/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/anshumala2388/leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/anshumala2388/leetcode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/anshumala2388/leetcode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/anshumala2388/leetcode/tree/master/2965-find-missing-and-repeated-values) |
