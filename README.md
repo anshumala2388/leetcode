@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anshumala2388/leetcode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anshumala2388/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -278,4 +279,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anshumala2388/leetcode/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshumala2388/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshumala2388/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshumala2388/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
